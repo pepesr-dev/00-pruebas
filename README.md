@@ -1,10 +1,19 @@
-# 00-pruebas
+# IMPORTANTE:
+Si quiero subir algo necesito el usuario y el token que generé (cuidado que caduca).
+git add .
+git commit -m "Descripción"
+git push origin main
+
+usuario
+pass/token
+
+# Primeras pruebas con GitHub
 Primeras pruebas con GitHub
 
-# Segunda prueba
+# Clonar
 clonar repositorio local
 
-#Tercera prueba WorkFlow
+# WorkFlow
 
 1. Configuración inicial (Solo una vez)
 
